@@ -1,4 +1,4 @@
-# kazakhstan_materials
+# materials_for_ml
 
 **Лекция и семинары по введению в машинное обучение.**
 
